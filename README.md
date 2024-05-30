@@ -74,5 +74,6 @@ The `backup.sh` script performs the following actions:
 2. Stores the backup in the designated directory with a timestamp.
 3. Deletes backups older than 7 days.
 
-### Blog
+## Additional Resources
+
 For a detailed walkthrough and additional information, please visit my [blog post](https://yuminnk-devlog.vercel.app/ec2%E4%B8%8Amysql%E8%87%AA%E5%8B%95%E8%A8%AD%E5%AE%9A).
